@@ -13,6 +13,7 @@ const styles = {
     padding: '1em'
   },
   bodyMotion: {
+    borderRadius: '.5em',
     fontSize: '1.3em',
     height: '2em',
     margin: '.25em',
@@ -29,6 +30,7 @@ const styles = {
     marginTop: '.2em'
   },
   taInput: {
+    borderRadius: '.5em',
     fontSize: '1.7em',
     height: '2em',
     textAlign: 'center',
