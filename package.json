@@ -28,7 +28,7 @@
     "typescript": "^2.0.2"
   },
   "dependencies": {
-    "@newtack/snell": "0.2.0"
+    "@newtack/snell": "0.2.1"
   },
   "jest": {
     "scriptPreprocessor": "<rootDir>/preprocessor.js",
